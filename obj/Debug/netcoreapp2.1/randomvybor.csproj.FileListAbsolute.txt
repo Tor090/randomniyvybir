@@ -1,0 +1,11 @@
+D:\Visualstudioproject\randomvybor\bin\Debug\netcoreapp2.1\randomvybor.deps.json
+D:\Visualstudioproject\randomvybor\bin\Debug\netcoreapp2.1\randomvybor.runtimeconfig.json
+D:\Visualstudioproject\randomvybor\bin\Debug\netcoreapp2.1\randomvybor.runtimeconfig.dev.json
+D:\Visualstudioproject\randomvybor\bin\Debug\netcoreapp2.1\randomvybor.dll
+D:\Visualstudioproject\randomvybor\bin\Debug\netcoreapp2.1\randomvybor.pdb
+D:\Visualstudioproject\randomvybor\obj\Debug\netcoreapp2.1\randomvybor.csprojAssemblyReference.cache
+D:\Visualstudioproject\randomvybor\obj\Debug\netcoreapp2.1\randomvybor.csproj.CoreCompileInputs.cache
+D:\Visualstudioproject\randomvybor\obj\Debug\netcoreapp2.1\randomvybor.AssemblyInfoInputs.cache
+D:\Visualstudioproject\randomvybor\obj\Debug\netcoreapp2.1\randomvybor.AssemblyInfo.cs
+D:\Visualstudioproject\randomvybor\obj\Debug\netcoreapp2.1\randomvybor.dll
+D:\Visualstudioproject\randomvybor\obj\Debug\netcoreapp2.1\randomvybor.pdb
